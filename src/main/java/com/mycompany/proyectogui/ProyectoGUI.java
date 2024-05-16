@@ -11,6 +11,7 @@ public class ProyectoGUI {
         
         //Subir el proyecto completo de netbeans a github
         //Enviar la liga del proyecto al servidor de discord
+        //directamente a mi usuario, no al canal.
         
         // sgggsdfgsgsdgsdgsd
     }
